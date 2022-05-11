@@ -1,7 +1,14 @@
 
 # Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeolson Junior
 
-Frond-End Developer 
+- 🔭  I’m currently working on [42 Dias](https://github.com/42dias/)
+
+- 🔥 Front-End Developer
+
+- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript**
+
+- 👨‍💻 All of my projects are available at [joelson-junior.vercel.app/](https://joelson-junior.vercel.app/)
+
 
 [
 ![Linkedin Badge](https://img.shields.io/badge/-Joelson%20Júnior-673ab7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/jlsnjnr/) 
