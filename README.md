@@ -1,5 +1,5 @@
 
-# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joelson Júnior
+# Hi, I'm Joelson Júnior
 
 - 🔭  I’m currently working on [42 Dias](https://github.com/42dias/)
 
