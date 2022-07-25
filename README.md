@@ -1,7 +1,7 @@
 
 # Hi, I'm Joelson Júnior
 
-- 🔭  I’m currently working on [42 Dias](https://github.com/42dias/)
+- 🔭  I’m currently working on [Symtropy](https://github.com/42dias/)
 
 - 🔥 Front-End Developer
 
