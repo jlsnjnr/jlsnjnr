@@ -3,7 +3,8 @@
 
 - 🔭  I’m currently working on [OnSet](https://www.onset.com.br/)
 
-- 🔥 Front-End Developer
+- 📲 Front-end Mobile with React Native
+- 🌎 Front-end Web with Reactjs
 
 - 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript**
 
