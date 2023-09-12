@@ -1,7 +1,7 @@
 
 # Hi, I'm Joelson Júnior
 
-- 🔭  I’m currently working on [OnSet](https://www.onset.com.br/)
+- 🔭  I’m currently working on [OnSet](https://www.onset.com.br/) / [Compnet](http://compnet.com.br/)
 
 - 📲 Front-end Mobile with React Native
 - 🌎 Front-end Web with Reactjs
